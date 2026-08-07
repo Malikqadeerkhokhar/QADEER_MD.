@@ -1,12 +1,12 @@
 {
-  "name": "KHAN-MD",
+  "name": "QADEER-MD",
   "version": "15.0.0",
   "type": "module",
   "description": "A WhatsApp Bot Created By JawadTechX",
   "main": "index.js",
    "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name KHAN-MD",
-    "stop": "pm2 stop KHAN-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name QADEER-MD",
+    "stop": "pm2 stop QADEER-MD",
     "restart": "pm2 restart KHAN-MD"
   },
   "dependencies": {
