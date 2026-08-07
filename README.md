@@ -293,5 +293,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://github.com/Malikqadeerkhokhar">Malikqadeerkhokhar</a>
-</p>
+  Made with ❤️ by <a href="<img src="https://raw.githubusercontent.com/malikqadeerkhokhar/QADEER_MD/refs/heads/main/Qadeermd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+
