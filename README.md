@@ -1,6 +1,6 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=QADEER%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Jawad%20TechX&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=QADEER%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Malik%20qadeerkhokhar&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
 
 <div style="
   margin-top: -60px;
@@ -89,7 +89,7 @@
 
 ## 🚀 Pairing Dashboard
 
-> Securely link your device using the official KHAN-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
+> Securely link your device using the official QADEER-MD pairing portals below: if connection issues may require vpn activation to fix this issue.
 
  <div align="center">
 
@@ -114,7 +114,7 @@
 <!-- Cyber Red -->
 <p align="center">
   <a href="https://Malikqadeerkhokhar.vercel.app">
-    <img src="https://img.shields.io/badge/🚀_START_QADEER_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="JAWAD MD Mini Cyber Red"/>
+    <img src="https://img.shields.io/badge/🚀_START_QADEER_MD-ff073a?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d0d0d" alt="QADEER MD Mini Cyber Red"/>
   </a>
 </p>
 
