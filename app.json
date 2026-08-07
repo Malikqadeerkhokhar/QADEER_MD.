@@ -2,7 +2,7 @@
   "name": "QADEER-MD",
   "description": "Javascript WhatsApp bot made by qadeer TᴇᴄʜX",
   "logo": "https://files.catbox.moe/6zd0ru.jpg",
-  "keywords": ["KHAN-MD"],
+  "keywords": ["QADEER-MD"],
   "success_url": "/",
   "stack": "container",
   "env": {
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "Your bot name (Default: QADEER-MD)",
       "required": false,
-      "value": "KHAN-MD"
+      "value": "QADEER-MD"
     },
     "MODE": {
       "description": "Bot mode: public/private/inbox/groups (Default: private)",
