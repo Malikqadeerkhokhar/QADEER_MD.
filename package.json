@@ -7,7 +7,7 @@
    "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name QADEER-MD",
     "stop": "pm2 stop QADEER-MD",
-    "restart": "pm2 restart KHAN-MD"
+    "restart": "pm2 restart QADEER-MD"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.9",
