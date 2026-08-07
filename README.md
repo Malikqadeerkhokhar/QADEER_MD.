@@ -296,5 +296,4 @@ You are free to use, modify, and distribute it under the terms of this license.
   Made with ❤️ by <a href="<img src="https://raw.githubusercontent.com/malikqadeerkhokhar/QADEER_MD/refs/heads/main/Qadeermd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Malikqadeerkhokhar/QADEER_MD/main/1785948154020.png" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
-</div>
+  <img src=https// 1785948154020.png
