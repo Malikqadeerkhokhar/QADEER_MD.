@@ -45,8 +45,9 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Malikqadeerkhokhar/Malikqadeerkhokhar/refs/heads/main/Qadeermd.jpg" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
+  <img src="https://raw.githubusercontent.com/Malikqadeerkhokhar/QADEER_MD/main/1785948154020.png" width="300" style="border-radius: 20px; box-shadow: 0 0 20px #00ffff;"/>
 </div>
+
 
 ***
 
@@ -237,7 +238,7 @@
 ## Credits ⚒️
 
 <p><strong>Creator:</strong><br>
-JawadTechX (Official Creator)</p>
+Malikqadeerkhokhar (Official Creator)</p>
 
 ---
 
