@@ -1,28 +1,11 @@
 <div align="center">
-  
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:6a0dad,100:ab47bc&text=QADEER%20MD&fontColor=ffffff&fontSize=85&fontAlignY=40&animation=twinkling&desc=Powered%20By%20Malik%20qadeerkhokhar&descSize=20&descAlignY=65&stroke=ffffff&strokeWidth=1.2" width="100%"/>
-
-<div style="
-  margin-top: -60px;
-  text-align: center;
-  font-size: 32px;
-  font-weight: 1000;  /* Nuclear bold - no skimping */
-  letter-spacing: 3px;  /* Extra spacing for bold punch */
-  background: linear-gradient(90deg, #6a0dad, #ab47bc, #d896ff);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  background-clip: text;
-  text-shadow:
-    0 0 12px #6a0dad,
-    0 0 24px #ab47bc,
-    0 0 36px #d896ff,
-    0 0 48px #ab47bc;
-  padding: 12px 0;
-"> Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Malikqadeerkhokhar
+  <img src="https://raw.githubusercontent.com/Malikqadeerkhokhar/QADEER_MD/main/1785948154020.png" width="100%" style="border-radius: 10px;"/>
 </div>
+
+  <p align="center">
+  <b>Built on Baileys • Designed for Speed • Enhanced for Stability • Powered by Malikqadeerkhokhar</b>
 </p>
 
-<h1 align="center">
   <img src="https://img.shields.io/badge/-✨_Malikqadeerkhokhar_INSIGHTS_✨-purple?style=for-the-badge&logo=sparkles&logoColor=white&labelColor=0d1117&color=9d4edd&label=&link=https://github.com/QADEER-MD &link=https://github.com/QADEER-MD" />
 </h1>
 </p>
